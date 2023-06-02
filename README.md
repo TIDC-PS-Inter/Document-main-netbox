@@ -4,7 +4,7 @@
 
 
 
-1. ......   Dev sever. Use for dev code and test before push to production server
+1. ......   UAT sever. Use for dev code and test before push to production server
 
 
 
