@@ -1,9 +1,9 @@
 # Document-main-netbox
-
 # Netbox IPAM [Muay-UAT-Version 0.0.1] 2023-06-02
+
 On primise - VMware
 
-2. Server
+### Server
 
 http://103.76.196.249:8888   UAT sever. Use for dev code and test before push to production server
 
