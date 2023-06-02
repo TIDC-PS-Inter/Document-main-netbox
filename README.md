@@ -1,15 +1,16 @@
 # Document-main-netbox
 
-# Netbox IPAM [MuayUAT-Version 0.0.1] 2023-06-02
-
-
-
-1. ......   UAT sever. Use for dev code and test before push to production server
-
-
+# Netbox IPAM [Muay-UAT-Version 0.0.1] 2023-06-02
+On primise - VMware
 
 2. Server
-.......
+
+http://103.76.196.249:8888   UAT sever. Use for dev code and test before push to production server
+
+Login account
+user: admin
+password: 
+
 
 NetBox is an IP address management (IPAM) and data center infrastructure management (DCIM) tool. 
 
@@ -19,13 +20,8 @@ NetBox runs as a web application atop the Django Python framework with a Postgre
 
 
 
-
-
 ### How to develop plugin
-
-
-
-
+Please read this https://ttl255.com/developing-netbox-plugin-part-1-setup-and-initial-build/
 
 
 ### Plugin customization example
